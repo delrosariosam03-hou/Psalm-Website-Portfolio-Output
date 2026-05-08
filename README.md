@@ -12,6 +12,7 @@ A personal portfolio website built to showcase my projects, skills, experience, 
 - Contact form / contact links
 - Smooth navigation and modern UI
 - Fast and lightweight performance
+- Built with Intergalactic Animations
 
 ---
 
@@ -20,9 +21,6 @@ A personal portfolio website built to showcase my projects, skills, experience, 
 - HTML5
 - CSS
 - JavaScript
-- 
-
-
 
 ---
 

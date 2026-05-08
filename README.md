@@ -1,4 +1,4 @@
-# Portfolio Website
+# Psalm Del Rosario InterGalactic Animation About Me!
 
 A personal portfolio website built to showcase my projects, skills, experience, and contact information.
 

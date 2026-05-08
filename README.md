@@ -7,7 +7,7 @@ A personal portfolio website built to showcase my projects, skills, experience, 
 ## 🚀 Features
 
 - Responsive design for desktop and mobile
-- Project showcase section
+- Project OUTPUTS from some 7Analyttics section
 - About Me section
 - Contact form / contact links
 - Smooth navigation and modern UI
